@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+
+.container{
+    flex: 3;
+    text-align: center;
+}
+
+.container .container_header{
+    font-size: 3em;
+    color: rgba(112, 112, 112, 1);
+}
+
+.list_container{
+    padding: 20px 0;
+}
+
+h1 {
+    font-family: 'Playfair Display';
+    font-weight: 600;
+}
